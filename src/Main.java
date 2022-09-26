@@ -15,8 +15,8 @@ public class Main {
         for (int i = 0; i < 17; i = i + 2) {
             System.out.println(+i);
         }
-        // chetvertoe:
-        System.out.println("chetvertoe:");
+        //4etvertoe:
+        System.out.println("4etvertoe:");
         for (int i = 10; i >= -10; i--) {
             System.out.println(+i);}
         }
